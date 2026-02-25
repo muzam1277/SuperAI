@@ -1,0 +1,8 @@
+{
+  "name": "SuperAI Research & Education Suite",
+  "description": "An advanced AI-powered platform for unlimited multimodal input processing, cinematic video generation, and high-quality image modification, featuring a robust legal framework, Master-only ethical authorization, and enhanced media support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
